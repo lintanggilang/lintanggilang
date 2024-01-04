@@ -1,6 +1,5 @@
-<h1 align="center">Hello there👋😁 I'm Lintang Gilang Pratama, an Analytics Engineer </h1>
-<h3 align="center">Passionate about data, especially data analysis and data science.</h3>
-<h3 align="center">I'm skilled in Machine learning, OCR, Object Detection, Time Series, Data Visualization and ETL.</h3>
+<h1 align="center">Hello there👋😁 I'm Lintang Gilang Pratama, an Analytics Engineer</h1>
+<h3 align="center">I am an Analytics Engineer passionate about data, especially data analysis and data science.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.lintanggilang.site/](https://www.lintanggilang.site/)
 
@@ -8,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lintanggilang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lintanggilang/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
