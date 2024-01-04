@@ -1,5 +1,4 @@
-<h1 align="center">Hello there👋😁 I'm Lintang Gilang Pratama, 
-  an Analytics Engineer</h1>
+<h1 align="center">Hello there👋😁 I'm Lintang Gilang Pratama</h1>
 <h3 align="center">I am an Analytics Engineer passionate about data, especially data analysis and data science.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.lintanggilang.site/](https://www.lintanggilang.site/)
