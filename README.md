@@ -1,6 +1,6 @@
-<h1 align="center">Hello there👋😁 I'm Lintang Gilang Pratama, </h1>
-<h1 align="center">an Analytics Engineer passionate about data, especially data analysis and data science.</h1>
-<h1 align="center">I'm skilled in Machine learning, OCR, Object Detection, Time Series, Data Visualization and ETL.</h1>
+<h1 align="center">Hello there👋😁 I'm Lintang Gilang Pratama, an Analytics Engineer </h1>
+<h3 align="center">Passionate about data, especially data analysis and data science.</h3>
+<h3 align="center">I'm skilled in Machine learning, OCR, Object Detection, Time Series, Data Visualization and ETL.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.lintanggilang.site/](https://www.lintanggilang.site/)
 
