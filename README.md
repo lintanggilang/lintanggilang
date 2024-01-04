@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.lintanggilang.site/](https://www.lintanggilang.site/)
 
-- 📝 I regularly write articles on [https://medium.com/@lintang-gilang01](https://medium.com/@lintang-gilang01)
+- 📝 I   regularly write  articles    on [https://medium.com/@lintang-gilang01](https://medium.com/@lintang-gilang01)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
